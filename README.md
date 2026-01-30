@@ -56,7 +56,15 @@ No cloud APIs
 
 No tracking
 
-No data storage
+**## Security & Privacy
+- Runs entirely on localhost
+- No external API calls
+- No credentials required
+- No data persistence
+- Designed for privacy-sensitive datasets
+
+
+No data storage**
 
 Runs entirely on localhost
 
